@@ -175,7 +175,7 @@ Student-Performance-Prediction-Model/
 
 ## 📜 License
 
-This project is **free and open source** — use it however you like! No restrictions, no attribution required. 🎉
+This project is **free and open source**  use it however you like! No restrictions, no attribution required. 🎉
 
 ---
 
